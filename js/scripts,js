@@ -1,3 +1,4 @@
+
 // tags/script.js
 var titulo = document.getElementsByTagName("h1")[0];    
 
@@ -20,7 +21,7 @@ title.innerHTML = "Testando o texto Alterado!";
 
 
 //textContent/script.js mais utilizado , recomendado e performático
-var subtitle = documente.querySelector(".subtitle");
+var subtitle = document.querySelector(".subtitle");
 
 console.log(subtitle);
 
